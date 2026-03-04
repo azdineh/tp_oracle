@@ -6,6 +6,11 @@
 
 ---
 
+## Lien du formulaire
+Envoyer vos réponses (dossier compressé qui contient les fichiers json plus le document des requêtes SQL)
+Lien : https://forms.gle/wxVBpkMSUzbb5FLS7
+
+---
 ## Objectifs pédagogiques
 
 À la fin de ce TP, l’étudiant sera capable de :
