@@ -1,4 +1,4 @@
-# 🧪 TP : Maîtriser les INNER JOIN avec le schéma HR (Oracle)
+# TP : Maîtriser les INNER JOIN avec le schéma HR (Oracle)
 
 > Base de données : Oracle (Schéma HR)  
 > Plateforme de test : https://freesql.com/  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 À la fin de ce TP, l’étudiant sera capable de :
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📚 Rappel des tables principales du schéma HR
+## Rappel des tables principales du schéma HR
 
 - `employees`
 - `departments`
@@ -30,11 +30,11 @@
 
 ---
 
-# 🔹 PARTIE 1 — Requêtes SIMPLES (INNER JOIN de base)
+# PARTIE 1 — Requêtes SIMPLES (INNER JOIN de base)
 
 ---
 
-## 🔹 Exercice 1
+## Exercice 1
 
 Afficher :
 
@@ -46,7 +46,7 @@ Tables : `employees`, `departments`
 
 ---
 
-## 🔹 Exercice 2
+## Exercice 2
 
 Afficher :
 
@@ -59,7 +59,7 @@ Tables : `employees`, `departments`, `locations`
 
 ---
 
-## 🔹 Exercice 3
+## Exercice 3
 
 Afficher :
 
@@ -70,7 +70,7 @@ Tables : `employees`, `jobs`
 
 ---
 
-## 🔹 Exercice 4 (Auto-Join)
+## Exercice 4 (Auto-Join)
 
 Afficher :
 
@@ -82,11 +82,11 @@ Faire une jointure de la table `employees` avec elle-même.
 
 ---
 
-# 🔸 PARTIE 2 — Niveau MOYEN (JOIN + GROUP BY)
+# PARTIE 2 — Niveau MOYEN (JOIN + GROUP BY)
 
 ---
 
-## 🔸 Exercice 5
+## Exercice 5
 
 Afficher pour chaque département :
 
@@ -100,7 +100,7 @@ Utiliser :
 
 ---
 
-## 🔸 Exercice 6
+## Exercice 6
 
 Afficher pour chaque département :
 
@@ -117,7 +117,7 @@ Utiliser :
 
 ---
 
-## 🔸 Exercice 7
+## Exercice 7
 
 Afficher les départements ayant plus de 5 employés.
 
@@ -128,7 +128,7 @@ Utiliser :
 
 ---
 
-## 🔸 Exercice 8
+## Exercice 8
 
 Afficher les managers ayant au moins 3 employés sous leur responsabilité.
 
@@ -140,11 +140,11 @@ Utiliser :
 
 ---
 
-# 🔴 PARTIE 3 — Niveau AVANCÉ
+# PARTIE 3 — Niveau AVANCÉ
 
 ---
 
-## 🔴 Exercice 9
+## Exercice 9
 
 Afficher pour chaque pays :
 
@@ -158,7 +158,7 @@ Tables :
 
 ---
 
-## 🔴 Exercice 10
+## Exercice 10
 
 Afficher les départements dont :
 
@@ -172,7 +172,7 @@ Utiliser :
 
 ---
 
-## 🔴 Exercice 11
+## Exercice 11
 
 Afficher :
 
@@ -186,7 +186,7 @@ Utiliser :
 
 ---
 
-## 🔴 Exercice 12 — Mini Projet Final
+## Exercice 12 — Mini Projet Final
 
 Créer un rapport contenant :
 
@@ -206,7 +206,7 @@ Contraintes :
 
 ---
 
-# 📤 EXPORT DES RÉSULTATS
+# EXPORT DES RÉSULTATS
 
 À la fin du TP :
 
@@ -217,7 +217,7 @@ Contraintes :
 
 ---
 
-# 🐍 Utilisation ultérieure en Python
+# Utilisation ultérieure en Python
 
 Les fichiers exportés seront utilisés pour :
 
